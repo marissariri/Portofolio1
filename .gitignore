@@ -1,0 +1,4 @@
+venv
+Diamond_Price.egg-info
+logs
+**/__pycache__/
